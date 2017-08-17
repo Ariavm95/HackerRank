@@ -1,2 +1,2 @@
 # HackerRank
-I decided to push my code for Hacherrank challenges into my github. The link to challenges is put in each folder.
+Here is my code for Hackerrank challenges. You can find the link to challenges in README.md in each folder.
